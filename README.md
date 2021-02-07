@@ -24,4 +24,5 @@ I am not well versed in dynamic factor modeling but the reason I created this re
 The repository is in its early stages and requires further improvements such as optimizing functions and writing clearer syntax with proper formatting. I'm not sure when I will get to this as I moved away from time series and started focusing on deep learning. My apologies for any inconviences. Feel free to post any technical issues that you encountered and I'll try my best to respond promptly.
 
 Thanks,
+
 MK
