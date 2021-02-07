@@ -17,5 +17,11 @@ The Matlab code being translated implements the nowcasting framework described i
 * `Spec_US_example.xls` : example model specification for the US
 
 ## NOTICE:
-This repository is not associated Federal Reserve Bank of New York. The purpose of this repository is for academic uses.
- Additionally, the repository is in its early stages and requires further improvements such as optimizing functions and writing clearer syntax with proper formatting.
+This repository is not associated Federal Reserve Bank of New York. 
+I am not well versed in dynamic factor modeling but the reason I created this repository was to challenge myself and I thought it would be cool to convert a model from matlab to python. So feel free to use it for academic purposes but make sure you give proper credit to [Eric Qian](https://github.com/eric-qian) and
+[Brandyn Bok](https://github.com/brandynbok). 
+
+The repository is in its early stages and requires further improvements such as optimizing functions and writing clearer syntax with proper formatting. I'm not sure when I will get to this as I moved away from time series and started focusing on deep learning. My apologies for any inconviences. Feel free to post any technical issues that you encountered and I'll try my best to respond promptly.
+
+Thanks,
+MK
