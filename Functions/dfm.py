@@ -1,7 +1,7 @@
 #-------------------------------------------------Libraries
 import numpy as np
 import pandas as pd
-from remNaNs_spline import remNaNs_spline
+from Functions.remNaNs_spline import remNaNs_spline
 from scipy.linalg import eig
 from scipy.linalg import block_diag
 
